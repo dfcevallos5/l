@@ -1,4 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="113605" tvg-name="TELEAMAZONA" https://youvideostreaming.club/hls/tvec4.m3u8?PlaylistM3UCL
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="EC.m3u"
+#EXTINF:-1 tvg-id="115557" tvg-name="C Uno" http://173.212.247.99/hls/tvec1.m3u8?PlaylistM3UCL
 
