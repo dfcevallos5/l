@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="115557" tvg-name="Canal Uno" tvg-logo="https://lh3.googleusercontent.com/-rXr4pne0vdg/X60v7KYnyrI/AAAAAAAA7Os/x1k6J3VkNFcKjv0Zq5434t5GIkIm9ughgCK8BGAsYHg/s0/2020-11-12.png", Canal Uno
+#EXTINF:-1 tvg-id="115557" tvg-name="Canal1UNO"
 http://173.212.247.99/hls/tvec1.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png", TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
 #EXTINF:-1 tvg-id="113606" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg", America Estereo
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113605" tvg-name="TELEAMAZONA" tvg-logo="https://lh3.googleusercontent.com/-YLOhA6NjL4w/X4sVzN3iQqI/AAAAAAAA6dY/_Nf1hxIY7qYOc8CP8e_1AYRSucZklSQNACK8BGAsYHg/s0/2020-10-17.png", Gama TV
