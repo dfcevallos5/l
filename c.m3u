@@ -12,7 +12,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1, RTS
 http://173.212.247.99/hls/tvec3.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, Asomavision
+#EXTINF:-1, tv manabi
 http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Hechos Tv
@@ -21,8 +21,3 @@ http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
 #EXTINF:-1, RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,ECUAVISA SD
-http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-
-#EXTINF:-1,ECUAVISA HD
-http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
