@@ -1,5 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, Canal1
+#EXTINF:-1, Canal Uno
 
 http://173.212.247.99/hls/tvec1.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1, Teleamazonas
+
+https://youvideostreaming.club/hls/tvec4.m3u8?PlaylistM3UCL
