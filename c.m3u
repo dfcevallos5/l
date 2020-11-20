@@ -3,7 +3,7 @@
 http://173.212.247.99/hls/tvec1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113606" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg", America Estereo
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="113605" tvg-name="Gama TV" tvg-logo="https://lh3.googleusercontent.com/-YLOhA6NjL4w/X4sVzN3iQqI/AAAAAAAA6dY/_Nf1hxIY7qYOc8CP8e_1AYRSucZklSQNACK8BGAsYHg/s0/2020-10-17.png", Gama TV
+#EXTINF:-1 tvg-id="113605" tvg-name="TELEAMAZONA" tvg-logo="https://lh3.googleusercontent.com/-YLOhA6NjL4w/X4sVzN3iQqI/AAAAAAAA6dY/_Nf1hxIY7qYOc8CP8e_1AYRSucZklSQNACK8BGAsYHg/s0/2020-10-17.png", Gama TV
 https://youvideostreaming.club/hls/tvec4.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110968" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -39,3 +39,5 @@ https://tv.streamseguro.com:5443/LiveApp/streams/ecoteltv.m3u8?token=null&Playli
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101551" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-aNdtm5vEpS8/Xzh95iQ0_II/AAAAAAAA4dU/y_DJuUv6NOEfLPbD_puPUyC-rFzEK_Q6ACK8BGAsYHg/s0/2020-08-15.png", TVN
 https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Efekto Tv SD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
