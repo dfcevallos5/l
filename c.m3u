@@ -21,5 +21,8 @@ http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
 #EXTINF:-1, RTU
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,ECUAVISA INTER
-http://extremo.dyndns.ws:25461/live/lety/lety/2454.ts
+#EXTINF:-1,ECUAVISA SD
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:-1,ECUAVISA HD
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
